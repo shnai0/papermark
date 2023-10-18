@@ -13,10 +13,7 @@ function BlogPost() {
           name="description"
           content="How to launch Open Source project on Product Hunt? Best tips to launch on Product Hunt and get first place"
         />
-        <meta
-          property="og:title"
-          content="How to launch Open Source project on Product Hunt?"
-        />
+
         <meta
           property="og:description"
           content="How to launch Open Source project on Product Hunt? Best tips to launch on Product Hunt and get first place"
